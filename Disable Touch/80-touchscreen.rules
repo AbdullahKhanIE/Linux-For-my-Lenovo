@@ -1,0 +1,3 @@
+#Bus=0019 Vendor=2a94 Product=d64d Version=0100
+
+SUBSYSTEM=="input", ATTRS{id/vendor}=="2a94", ATTRS{id/product}=="d64d", ATTR{inhibited}="1" 
