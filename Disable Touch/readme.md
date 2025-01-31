@@ -18,7 +18,8 @@ B: MSC=20
 
 
 
-``` udevadm info -a -p /devices/platform/AMDI0010:03/i2c-0/i2c-GGT7503:00/0018:2A94:A811.0005/input/input20
+```
+udevadm info -a -p /devices/platform/AMDI0010:03/i2c-0/i2c-GGT7503:00/0018:2A94:A811.0005/input/input20
 ```
 #### Udevadm info starts with the device specified by the devpath and then
 #### walks up the chain of parent devices. It prints for every device
