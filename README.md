@@ -310,14 +310,3 @@ You now have:
 * fast app launching
 
 ---
-
-# If you want next upgrade
-
-I can help you build:
-
-* 🔥 “coding mode workspace layout (auto split terminal + editor + browser)”
-* 🧠 per-app rules (Firefox always opens in workspace 3)
-* 🎯 scratchpad terminal (i3-style drop-down terminal)
-* ⚡ full productivity dashboard workflow
-
-Just say 👍
